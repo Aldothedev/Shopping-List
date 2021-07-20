@@ -1,2 +1,2 @@
 # Shopping-List
- Grocery List using jQuary
+ Grocery List using jQuary.
